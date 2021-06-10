@@ -1,0 +1,8 @@
+.SatelliteP{
+    position: absolute;
+    border-radius: 100%;
+    background-color: blue;
+    width: 10px;
+    height: 10px;   
+    
+}

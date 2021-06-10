@@ -1,0 +1,9 @@
+.Viewer{
+    background: linear-gradient(150deg, #fff102,  #f10271, #00c298);
+background-size: 100% 100%;
+animation:  8s ease infinite;
+    display: flex;
+
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+

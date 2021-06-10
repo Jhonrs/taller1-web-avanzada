@@ -1,0 +1,30 @@
+.container__planet {
+    position: relative;
+    top: 10px;
+    width: fit-content;
+    height: fit-content;
+    margin: 2.5vh;
+    padding: 150px;
+}
+
+.body__planet {
+    position: relative;
+    border-radius: 100%;
+    background-color: gray;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    margin-top: auto;
+}
+
+.planet__ring {
+    position: absolute;
+    background-color: lightcoral;
+    left: 50%;
+    top: 50%;
+    width: calc(100% - 250px);
+    border-radius: 3px;
+    padding-top: 2%;
+    height: 0px;
+    transform: translate(-50%, -50%) rotate(var(--ringRotate));
+}

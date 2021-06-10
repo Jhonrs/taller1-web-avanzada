@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+.ViewerPlanet {
+    background-image: url(/src/img/space.jpg);
+    width: 50vw;
+    height: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: fixed;
+ 
+}
+
+.TextViewerP{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+
+.btnChange{
+    height: 65px;
+    width: 65px;
+    border-radius: 100px;
+  margin-left: 65%;
+}
