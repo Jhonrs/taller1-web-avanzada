@@ -1,0 +1,7 @@
+.IslandP{
+    position: absolute;
+    border-radius: 100%;
+    background-color: red;
+    width: 10%;
+    height: 10%;
+}

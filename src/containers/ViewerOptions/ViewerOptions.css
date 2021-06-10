@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+
+    margin: 0%;
+}
+
+.ViewerOptions {
+    
+    margin-left: 50%;
+    height: 100% ;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+.OptionsContainer {
+    width: 80%;
+    height: 80%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+
+.navBar {
+    width: 100%;
+    height: 10%;
+    border: solid white 2px;
+    font-size: 20px;
+}
+
+.nav__options {
+    margin-top: 50px;
+    margin-left: 15%;
+}

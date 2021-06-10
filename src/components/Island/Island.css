@@ -1,0 +1,18 @@
+
+button{
+    margin: 2.5%;
+    font-size: 18px;
+    width: 90px;
+    height: 48px;   
+    background: #5186EE;
+    border-radius: 10px;
+    Border: none
+    
+}
+
+.count{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    display: inline;
+    font-size: 30px;
+}
